@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="yuwang.jpeg">
 
-I'm a graduate from [ACEM](https://www.acem.sjtu.edu.cn/en), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [A.P. Cheng Hua](https://www.acem.sjtu.edu.cn/en/faculty/huacheng.html). I am a graduate student in the Mathematics Department at the University of British Columbia, under the supervision of  [Prof. Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
+I graduated from [ACEM](https://www.acem.sjtu.edu.cn/en), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/), advised by [A.P. Cheng Hua](https://www.acem.sjtu.edu.cn/en/faculty/huacheng.html). I am a graduate student in the Mathematics Department at the University of British Columbia, under the supervision of  [Prof. Yankai Cao](https://chbe.ubc.ca/yankai-cao/).
 
 ## Research Interest
 
