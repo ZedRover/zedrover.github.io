@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [yu.wang@outlook.my](mailto:yu.wang@outlook.my)
+* Email: [yu.wang (at) outlook.my](mailto:yu.wang@outlook.my)
 
 * Phone: [+1-9318055554](tel:+1-9318055554)
 
